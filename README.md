@@ -6,4 +6,4 @@ Git Workshop auf der SAE am 4. September *2015*.
 Was ist Git
 -----------
 
-[Git] (www.git-scm.at) ist ein **dezentrales** Versionoierungssystem.
+[Git] (http://www.git-scm.com/) ist ein **dezentrales** Versionoierungssystem.
